@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+ <channel>
+ <title>Plants Types</title>
+ <description>This page shows diferents types of plants</description>
+ <link>https://a21alejandrovp.github.io/plantProject</link>
+ <pubDate>Tue, 22 Nov 2022 11:30:00 GMT</pubDate>
+ <managingEditor>a21alejandrovp@iessanclemente.net</managingEditor>
+ <item>
+ <title>Carnivorous Plant</title>
+ <link>https://a21alejandrovp.github.io/proxectocssprogramming/carnivorousPlant</link>
+ <pubDate>Tue, 22 Nov 2022 11:30:00 GMT</pubDate>
+ <description>Carnivorous plants information</description>
+ </channel>
+</rss>
